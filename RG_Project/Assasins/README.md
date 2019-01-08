@@ -5,6 +5,8 @@ Members:
 - Stipe Žeravica
 - Luka Rančić
 
+## Project Info
+
    ```console
    > Course: Računalna Grafika
    ```
@@ -16,3 +18,17 @@ Members:
    ```console
    > Made with: Unity
    ```
+
+   Project Structure:
+
+        ```console
+        \Assasins
+        ├── Code
+        |  ├── 
+        |  |  ├── 
+        |  |  └── 
+        |  └── 
+        |── Documentation
+        |── Installer
+        └── 
+        ```

@@ -5,5 +5,14 @@ Members:
 - Stipe Žeravica
 - Luka Rančić
 
-Course: Računalna Grafika
-Project: Assasins
+   ```console
+   > Course: Računalna Grafika
+   ```
+
+   ```console
+   > Project: Assasins
+   ```
+
+   ```console
+   > Made with: Unity
+   ```

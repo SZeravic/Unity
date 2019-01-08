@@ -1,2 +1,2 @@
 # Unity
-Group Educational project for University Class
+Repo for University Class Projects

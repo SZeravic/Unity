@@ -19,16 +19,25 @@ Members:
    > Made with: Unity
    ```
 
-   Project Structure:
+Project Structure:
 
         ```console
-        \Assasins
+        Assasins
         ├── Code
-        |  ├── 
-        |  |  ├── 
-        |  |  └── 
-        |  └── 
+        |  └── Assasins
+        |     ├── Assets
+        |     ├── Library
+        |     ├── Logs
+        |     ├── obj
+        |     ├── Packages
+        |     └── ProjectSettings
+        |  
         |── Documentation
-        |── Installer
-        └── 
+        └── Executable
+            ├── Installer
+            └── Portable
+                ├── 32-bit
+                |   └── Assasins.exe
+                └── 64-bit
+                    └── Assasins.exe
         ```

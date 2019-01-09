@@ -22,7 +22,7 @@
 
 1. Download the repo localy and Navigate to /Executable/Portable/32-bit/Assasins.exe
 
-        ```console
+
         Assasins
         ├── Code
         |── Documentation
@@ -33,7 +33,7 @@
             └── **Portable**
                 └── **32-bit**
                     └── Assasins.exe
-        ```
+
 
 2. Run Assasins.exe
 

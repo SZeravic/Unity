@@ -10,13 +10,13 @@
 
 2. Run Assasins_Installer.exe
 
+3. Follow the steps to complete the installation process
+
 ## How to run Installed files
 
-1. Follow the steps to complete the installation of the game
+1. Open the directory where the application was installed
 
-2. Open the directory where the application was installed
-
-3. Run Assasins.exe
+2. Run Assasins.exe
 
 ## How to run Portable version
 

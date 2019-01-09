@@ -196,6 +196,13 @@ public class GameManager : MonoBehaviour
     }
 
     // attach to StartButton, triggers PlayLevelRoutine
+    public void PlayNextLevel()
+    {
+        Scene scene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene("Level1-2");
+    }
+
+    // attach to StartButton, triggers PlayLevelRoutine
     public void PlayLevel()
     {
         m_hasLevelStarted = true;

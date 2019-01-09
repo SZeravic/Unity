@@ -25,21 +25,13 @@
         ```console
         Assasins
         ├── Code
-        |  └── Assasins
-        |     ├── Assets
-        |     ├── Library
-        |     ├── Logs
-        |     ├── obj
-        |     ├── Packages
-        |     └── ProjectSettings
-        |  
         |── Documentation
-        └── Executables
+        └── **Executables**
             ├── Installer
             |   └── 32-bit
             |       └── Assasins.exe
-            └── Portable
-                └── 32-bit
+            └── **Portable**
+                └── **32-bit**
                     └── Assasins.exe
         ```
 

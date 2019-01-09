@@ -8,6 +8,17 @@
 
 1. Download the repo localy and Navigate to /Executable/Installer/Assasins_Installer.exe
 
+        ```console
+        Assasins
+        ├── Code
+        |── Documentation
+        └── Executables
+            ├── Installer
+            |   └── 32-bit
+            |       └── Assasins_Installer.exe
+            └── Portable
+        ```
+
 2. Run Assasins_Installer.exe
 
 3. Follow the steps to complete the installation process
@@ -26,12 +37,10 @@
         Assasins
         ├── Code
         |── Documentation
-        └── **Executables**
+        └── Executables
             ├── Installer
-            |   └── 32-bit
-            |       └── Assasins.exe
-            └── **Portable**
-                └── **32-bit**
+            └── Portable
+                └── 32-bit
                     └── Assasins.exe
 
 

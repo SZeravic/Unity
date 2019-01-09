@@ -8,7 +8,6 @@
 
 1. Download the repo localy and Navigate to /Executable/Installer/Assasins_Installer.exe
 
-        ```console
         Assasins
         ├── Code
         |── Documentation
@@ -17,7 +16,6 @@
             |   └── 32-bit
             |       └── Assasins_Installer.exe
             └── Portable
-        ```
 
 2. Run Assasins_Installer.exe
 
@@ -32,7 +30,6 @@
 ## How to run Portable version
 
 1. Download the repo localy and Navigate to /Executable/Portable/32-bit/Assasins.exe
-
 
         Assasins
         ├── Code

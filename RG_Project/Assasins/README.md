@@ -44,7 +44,7 @@ Source code is located in the "Assets" folder
         └── Executables
             ├── Installer
             |   └── 32-bit
-            |       └── Assasins.exe
+            |       └── Assasins_Installer.exe
             └── Portable
                 └── 32-bit
                     └── Assasins.exe

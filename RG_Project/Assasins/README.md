@@ -1,6 +1,13 @@
 # 3D Board Game
+Assasins is a 3D turn based game revolving around a chess-like board where the main objective is to sucessufly reach the desired goal on the board.
+That is acomplished by controling your "Assasin" or "Hitman" figure on the board and either evading the guards from spoting you or dettecting you.
+Complete the levels by any means necessary, you can defeat all the emenies on the board by moving over them when they're not able to see you or
+avoid them all together, to beat the level simply try to reach the final destination alive.
 
-Members:
+## Player Controls
+Player inside the game is controlled with the help of arrow keys or "W,A,S,D" keys on the keyboard, these controls can be configured just before the game is launched.
+
+## Project Members:
 - Dujam Krstulović
 - Stipe Žeravica
 - Luka Rančić
@@ -19,7 +26,8 @@ Members:
    > Made with: Unity
    ```
 
-Project Structure:
+## Project Structure:
+Source code is located in the "Assets" folder
 
         ```console
         Assasins
@@ -36,8 +44,6 @@ Project Structure:
         └── Executable
             ├── Installer
             └── Portable
-                ├── 32-bit
-                |   └── Assasins.exe
-                └── 64-bit
+                └── 32-bit
                     └── Assasins.exe
         ```

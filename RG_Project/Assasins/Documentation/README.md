@@ -1,5 +1,5 @@
 # Documentation
-More in depth documentation can be found in the current directory inside "RG_Assasins_Documentation" .docx and .pdf format files. 
+More in depth documentation can be found in the current directory inside "RG_Assasins_Documentation" files. 
 
 ## Project Description
 Assasins is a 3D turn based game revolving around a chess-like board where the main objective is to successfully reach the desired goal on the board.

@@ -3,5 +3,10 @@ Repo for University Class Projects
 
 ## Current Active Project
 
-Course: Računalna Grafika  
-Project: Assasins
+   ```console
+   > Course: Računalna Grafika
+   ```
+
+   ```console
+   > Project: Assasins
+   ```
